@@ -4,7 +4,7 @@ This is the Complete Express Users API built in the ECX classes including docume
 
 # Installation
 To install the project, follow these steps:
-1. Clone the repository using the command `git clone https://github.com/your-username/
+1. Clone the repository using the command `git clone https://github.com/samthemogul/express-api-ecx.git
 2. Install the required packages by running 
 `npm install` 
 or 
