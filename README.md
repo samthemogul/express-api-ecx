@@ -16,5 +16,6 @@ MONGO_URL=YOUR_MONGODB_CONNECTION_STRING
 `
 # Run the application
 To run the application, execute the following command in your terminal:
-`npm start`
+`npm run build` to transpile to JavaScript
+`npm run start` to start the server
 
